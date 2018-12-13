@@ -1,1 +1,41 @@
-
+{
+  "squadName" : "MY IDOL",
+  "homeTown" : "CHINA",
+  "formed" : 1949,
+  "secretBase" : "Idol tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "G-Dragon",
+      "age" : 30,
+      "secretIdentity" : "GD",
+      "powers" : [
+        "歌手",
+        "制作人",
+        "Rapper"
+      ]
+    },
+    {
+      "name" : "刘雯",
+      "age" : 30,
+      "secretIdentity" : "大表姐",
+      "powers" : [
+        "模特",
+        " ",
+        " "
+      ]
+    },
+    {
+      "name" : "林徽因",
+      "age" : 18,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "作家",
+        "诗人",
+        "建筑学家",
+        " ",
+        " "
+      ]
+    }
+  ]
+}
